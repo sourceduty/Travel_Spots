@@ -16,6 +16,10 @@ Travel Spots emphasizes safety, cultural respect, and sustainable travel practic
 [Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
 <br>
 [Activity Balancer](https://github.com/sourceduty/Activity_Balancer)
+<br>
+[Burj Khalifa Simulator](https://chatgpt.com/g/g-DiTsWfJah-burj-khalifa-simulator)
+<br>
+[Vacation](https://chatgpt.com/g/g-8h9OXTiMr-vacation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
